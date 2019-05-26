@@ -35,3 +35,5 @@ As we know car parking is major problem issue now-a- days and frustrating for pe
 # LINK TO ARCHITECTURE-
 # SOLUTON ARCHITECTURE-https://github.com/aryachiranjeev/Parking-Lot/blob/master/project%20architecture.docx
 # TECHINCAL ARCHIECTURE- https://github.com/aryachiranjeev/Parking-Lot/blob/master/Read%20Me(Technial%20Architecture).docx
+
+# PRESENTATION LINK- 
