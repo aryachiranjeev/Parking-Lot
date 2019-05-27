@@ -18,6 +18,11 @@ As we know car parking is major problem issue now-a- days and frustrating for pe
 
 4) Due to automated cameras in parking lot at every 10 seconds the parking lot condition get updated  by telling which parking spots are empty or occupied.(Green box for empty parking spot)
 
+5)One more Advance Feature we have created in App that it automatically generates Total Parking bill of user = PARKING CHARGES + Advance parking Booking charges.
+
+6) We are also maintaining the Database using Firebase containing each and every information of user like  E-mail ,Name , Phone number ,  parking slot number booked ,Billing details etc.
+
+
 # APPROACH-
 
 1) We created the segmented dataset for parking spot images of parking area in different weather conditions.
